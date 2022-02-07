@@ -15,3 +15,12 @@ kilometres (130,678 sq mi) with a population of 5.5 million. Helsinki is the cou
 larger metropolitan area together with the neighbouring cities of Espoo, Kauniainen, and Vantaa. Finland is officially bilingual, 
 with Finnish and Swedish being official. The climate varies relative to latitude, from the the southern humid continental climate 
 to the northern boreal climate. The land cover is primarily a boreal forest biome, with more than 180,000 recorded lakes.
+
+Italy
+Italy, officially the Italian Republic, is a country consisting of a peninsula delimited by the Alps and several islands
+surrounding it, whose territory largely coincides with the homonymous geographical region. Italy is located in the 
+centre of the Mediterranean Sea, in Southern Europe; it is also considered part of Western Europe. A unitary parliamentary
+republic with Rome as its capital and largest city, the country covers a total area of 301,230 km2 and shares land borders
+with France, Switzerland, Austria, Slovenia, as well as the enclaved microstates of Vatican City and San Marino.
+Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). 
+With around 60 million inhabitants, Italy is the third-most populous member state of the European Union.
