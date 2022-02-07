@@ -15,7 +15,7 @@ kilometres (130,678 sq mi) with a population of 5.5 million. Helsinki is the cou
 larger metropolitan area together with the neighbouring cities of Espoo, Kauniainen, and Vantaa. Finland is officially bilingual,
 with Finnish and Swedish being official. The climate varies relative to latitude, from the the southern humid continental climate
 to the northern boreal climate. The land cover is primarily a boreal forest biome, with more than 180,000 recorded lakes.
-as its own continent because of its great physical size and the weight of its history and traditions.
+
 
 Portugal
 Portugal, officially the Portuguese Republic is a country whose mainland is located on the Iberian Peninsula, in Southwestern Europe,
@@ -24,6 +24,7 @@ It features the westernmost point in mainland Europe, and its Iberian portion is
 the sole country to have a land border with Portugal.
 Its two archipelagos form two autonomous regions with their own regional governments. The official and national language is Portuguese.
  Lisbon is the capital and largest city.
+
 
 Italy
 Italy, officially the Italian Republic, is a country consisting of a peninsula delimited by the Alps and several islands 
