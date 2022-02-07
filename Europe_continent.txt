@@ -24,3 +24,12 @@ It features the westernmost point in mainland Europe, and its Iberian portion is
 the sole country to have a land border with Portugal.
 Its two archipelagos form two autonomous regions with their own regional governments. The official and national language is Portuguese.
  Lisbon is the capital and largest city.
+
+Italy
+Italy, officially the Italian Republic, is a country consisting of a peninsula delimited by the Alps and several islands 
+surrounding it, whose territory largely coincides with the homonymous geographical region. 
+Italy is located in the centre of the Mediterranean Sea, in Southern Europe; it is also considered part of Western Europe.
+A unitary parliamentary republic with Rome as its capital and largest city, the country covers a total area of 301,230 km2 
+and shares land borders with France, Switzerland, Austria, Slovenia, as well as the enclaved microstates of Vatican City and San Marino.
+Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). With around 60 million
+inhabitants, Italy is the third-most populous member state of the European Union. 
